@@ -71,10 +71,9 @@ def main():
     st.write("""
     Aplikasi ini menggunakan beberapa model Machine Learning:
     
-    1. **Linear Regression** - Model regresi linear sederhana
-    2. **Random Forest** - Ensemble learning dengan decision trees
-    3. **XGBoost** - Gradient boosting algorithm
-    4. **LSTM** - Long Short-Term Memory neural network untuk time series
+    1. **Random Forest** - Ensemble learning dengan decision trees
+    2. **XGBoost** - Gradient boosting algorithm
+    3. **LSTM** - Long Short-Term Memory neural network untuk time series
     
     **Fitur yang Digunakan (Technical Indicators):**
     - Moving Average (MA) - 5, 10, 20, 50, 200 hari
