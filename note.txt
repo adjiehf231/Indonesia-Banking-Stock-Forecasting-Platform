@@ -1,0 +1,8 @@
+Create virtual environment
+python -m venv .venv
+
+Aktivasi virtual environment
+.venv\Scripts\activate
+
+Runnin Program
+streamlit run app.py  
